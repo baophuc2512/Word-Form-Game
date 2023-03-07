@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd483c2dd20a6774398f1941fd973cb7, type: 3}
+  m_Name: DataQuestion
+  m_EditorClassIdentifier: 
+  eachQuestion:
+  - textQuestion: The company is facing a financial _______.
+    wordToTransform: (Difficult)
+    typeQuestion: Noun
+    answer: Difficulty
+    time: 40
+  - textQuestion: She sang a ______ song at the concert last night.
+    wordToTransform: (Beauty)
+    typeQuestion: Adjective
+    answer: Beautiful
+    time: 40
+  - textQuestion: He speaks Spanish _______.
+    wordToTransform: (Fluency)
+    typeQuestion: Adverb
+    answer: Fluently
+    time: 40
+  - textQuestion: He played the guitar with _______ at the concert last night.
+    wordToTransform: (Beautiful)
+    typeQuestion: Noun
+    answer: Beauty
+    time: 40
+  - textQuestion: He is ______ soccer with his friends every weekend.
+    wordToTransform: (Play)
+    typeQuestion: Verb
+    answer: Playing
+    time: 40
+  - textQuestion: The company operates ______.
+    wordToTransform: (Efficient)
+    typeQuestion: Adverb
+    answer: Efficiently
+    time: 40
+  - textQuestion: The book's ______ of the concept is clear.
+    wordToTransform: (Explain)
+    typeQuestion: Noun
+    answer: Explanation
+    time: 40
+  - textQuestion: They've just finished _______ the kitchen.
+    wordToTransform: (Decoration)
+    typeQuestion: Verb
+    answer: Decorating
+    time: 40
+  - textQuestion: The problem with fossil fuels is that they are not _______.
+    wordToTransform: (Renew)
+    typeQuestion: Adjective
+    answer: Renewable
+    time: 40
+  - textQuestion: The rebels waited until nightfall to ______ their attack on the
+      city.
+    wordToTransform: (New)
+    typeQuestion: Verb
+    answer: Renew
+    time: 40
+  - textQuestion: We want to _______ as much open land as possible.
+    wordToTransform: (Preservation)
+    typeQuestion: Verb
+    answer: Preserve
+    time: 40
+  - textQuestion: ' Many companies now pay outside ______ to come in and teach management
+      skills to their staff.'
+    wordToTransform: (Train)
+    typeQuestion: Noun
+    answer: Trainers
+    time: 40
+  - textQuestion: "She\u2019s in ______ for the Olympics."
+    wordToTransform: (Train)
+    typeQuestion: Noun
+    answer: Training
+    time: 40
+  - textQuestion: Increased self-confidence can help improve ______ achievement.
+    wordToTransform: (Academy)
+    typeQuestion: Adjective
+    answer: Academic
+    time: 40
+  - textQuestion: In order to excel _______, it is important to develop good study
+      habits and prioritize time management.
+    wordToTransform: (Academy)
+    typeQuestion: Adverb
+    answer: Academically
+    time: 40
+  - textQuestion: This is Ms. Darnell, the hospital's nursing _____.
+    wordToTransform: (Coordinate)
+    typeQuestion: Noun
+    answer: Coordinator
+    time: 40
+  - textQuestion: When it comes to money, Dan is completely ______.
+    wordToTransform: (Responsible)
+    typeQuestion: Adjective
+    answer: Irresponsible
+    time: 40
+  - textQuestion: At school the other children treated them like _____.
+    wordToTransform: (Royal)
+    typeQuestion: Noun
+    answer: Royalty
+    time: 40
+  - textQuestion: She wanted to improve her English so she could _____ as a translator.
+    wordToTransform: (Qualification)
+    typeQuestion: Verb
+    answer: Qualify
+    time: 40
+  - textQuestion: It fully expected a massive ______.
+    wordToTransform: (Expand)
+    typeQuestion: Noun
+    answer: Expansion
+    time: 40
+  - textQuestion: Many jobs today require computer ______.
+    wordToTransform: (Skillful)
+    typeQuestion: Noun
+    answer: Skills
+    time: 40
+  - textQuestion: Cliburn's playing was ______ and sensitive.
+    wordToTransform: (Poem)
+    typeQuestion: Adjective
+    answer: Poetic
+    time: 40
+  - textQuestion: Exercise, in addition to good ______, can guard against a whole
+      range of serious ailments.
+    wordToTransform: (Nutrious)
+    typeQuestion: Noun
+    answer: Nutrition
+    time: 40
+  - textQuestion: He _______ the Church as a young man.
+    wordToTransform: (Entrance)
+    typeQuestion: Verb
+    answer: Entered
+    time: 40
+  - textQuestion: It is surprising that no _____ reaction to the miracle is given.
+    wordToTransform: (Overcrowded)
+    typeQuestion: Noun
+    answer: Crowd
+    time: 40
+  - textQuestion: It makes this cell more ______ in.
+    wordToTransform: (Live)
+    typeQuestion: Adjective
+    answer: Liveable
+    time: 40
+  - textQuestion: ' The banks claim that the cost of running the system has become
+      _______.'
+    wordToTransform: (Sustain)
+    typeQuestion: Adjective
+    answer: Unsustainable
+    time: 40
+  - textQuestion: No _______ to Phil, but the team has performed better since he
+      left.
+    wordToTransform: (Respect)
+    typeQuestion: Noun
+    answer: Disrespect
+    time: 40
+  - textQuestion: His company was not afraid to ______.
+    wordToTransform: (Diversity)
+    typeQuestion: Verb
+    answer: Diversify
+    time: 40
+  - textQuestion: In a traditional adventure story the ______ of personal honour
+      is drawn to an absolute conclusion.
+    wordToTransform: (Pursue)
+    typeQuestion: Noun
+    answer: Pursuit
+    time: 40
